@@ -1,2 +1,2 @@
-# Apeperia
-Layout Responsivo - Site adaptado para dispositivos de diferentes resoluções
+# projeto-apeperia
+Arquivos do projeto para a Apeperia
